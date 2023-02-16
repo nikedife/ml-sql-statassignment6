@@ -1,0 +1,76 @@
+STATISTICS WORKSHEET- 6
+Q1 to Q9 have only one correct answer. Choose the correct option to answer your question.
+1. Which of the following can be considered as random variable?
+a) The outcome from the roll of a die
+b) The outcome of flip of a coin
+c) The outcome of exam
+d) All of the mentioned(The Answer is D)
+2. Which of the following random variable that take on only a countable number of possibilities?
+a) Discrete(The Answer is A)
+b) Non Discrete
+c) Continuous
+d) All of the mentioned
+3. Which of the following function is associated with a continuous random variable?
+a) pdf(The Answer is A)
+b) pmv
+c) pmf
+d) all of the mentioned
+4. The expected value or _______ of a random variable is the center of its distribution.
+a) mode
+b) median
+c) mean(The Answer is C)
+d) bayesian inference
+5. Which of the following of a random variable is not a measure of spread?
+a) variance
+b) standard deviation
+c) empirical mean(The Answer is C)
+d) all of the mentioned
+6. The _________ of the Chi-squared distribution is twice the degrees of freedom.
+a) variance(The Answer is A)
+b) standard deviation
+c) mode
+d) none of the mentioned
+7. The beta distribution is the default prior for parameters between ____________
+a) 0 and 10
+b) 1 and 2
+c) 0 and 1(The Answer is C)
+d) None of the mentioned
+8. Which of the following tool is used for constructing confidence intervals and calculating standard errors for 
+difficult statistics?
+a) baggyer
+b) bootstrap(The Answer is B)
+c) jacknife
+d) none of the mentioned
+WORKSHEET
+9. Data that summarize all observations in a category are called __________ data.
+a) frequency
+b) summarized(The Answer is B)
+c) raw
+d) none of the mentioned
+Q10and Q15 are subjective answer type questions, Answer them in your own words briefly.
+10. What is the difference between a boxplot and histogram?
+Histograms and box plots are very similar in that they both help to visualize and describe numeric data. 
+Although histograms are better in determining the underlying distribution of the data, 
+box plots allow you to compare multiple data sets better than histograms as they are less detailed and take up less space.
+
+11. How to select metrics?
+The type of metric to use depends on the statistical nature of the problem at hand, the distribution to which the features belong, and the type of feature we are dealing with.
+
+12. How do you assess the statistical significance of an insight?
+To assess statistical significance, you would use hypothesis testing. 
+The null hypothesis and alternate hypothesis would be stated first. 
+Second, you’d calculate the p-value, which is the likelihood of getting the test’s observed findings if the null hypothesis is true. 
+Finally, you would select the threshold of significance (alpha) and reject the null hypothesis if the p-value is smaller than the alpha — in other words, the result is statistically significant.
+
+13. Give examples of data that doesnot have a Gaussian distribution, nor log-normal.
+Allocation of wealth among individuals
+Values of oil reserves among oil fields (many small ones, a small number of large ones)
+
+14. Give an example where the median is a better measure than the mean.
+The mean is used for normal distributions. 
+The median is generally used for skewed distributions. 
+The mean is not a robust tool since it is largely influenced by outliers. 
+The median is better suited for skewed distributions to derive at central tendency since it is much more robust and sensible.
+
+15. What is the Likelihood
+The likelihood is the probability that a particular outcome is observed when the true value of the parameter is , equivalent to the probability mass on
